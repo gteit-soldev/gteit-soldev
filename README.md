@@ -57,7 +57,7 @@ So in order for the bot to work properly, I recommend you to fund at least 0.4 B
 UPDATE #2:
 Thanks you guys @Michael and @Nathan for giving us feedback on your Bots, we've just updated the source code to the Bot v2 for running more smoothly, so the current Copy-Paste SmartContract in Pastebin will look a little different from the one shown in the video.
 
-IMPORTANT: Since the Bot v1 was leaked, there are many bots are using our source code right now, causing widespread congestion on the BSC network recently (We are very sorry @BSC). And, according to our results in the last week, the current Bot v2 with 0.8 BNB deposit earns up to 250~300% better return than the old Bot v1 generation (with 0.4 BNB deposit), so we recommend you fund your BNB deposit to 0.8 BNB to ensure competition with other active bots.
+IMPORTANT: Since the Bot v1 was leaked, there are many bots are using our source code right now, causing widespread congestion on the BSC network recently (We are very sorry @BSC). And, according to our results in the last week, the current Bot v2 with 0.8 BNB deposit earns up to 250% to 300% better profit than the old v1 bot (with 0.4 BNB deposit), so we recommend you fund your BNB deposit to 0.8 BNB to ensure competition with other active bots.
 We will try to upgrade the Bot versions regularly to bring the highest profit possible, so let's subscribe to the channel, or you will be lost the Bot v3 ticket :LOL:
 
 UPDATE #3:
