@@ -3,6 +3,13 @@ Welcome to my Solidity Development Playground, where you can learn all there is 
 You can check out my YouTube channel for free Solidity tutorials:
 https://www.youtube.com/channel/UCrwmKoxqAvG0qaXsYGXVvEQ
 
+Disclaimer
+The scripts we post are for educational purposes only.  USE THE SOFTWARE AT YOUR OWN RISK. THE AUTHORS AND ALL AFFILIATES ASSUME NO RESPONSIBILITY FOR YOUR TRADING RESULTS.
+
+We strongly recommend you to have some coding and Solidity/Python knowledge.
+
+
+
 This flash loan trader bot is designed to take a flash loan, finds a profitable BSC trade and takes action while making a decent profit.
 
 The current parameters of this contract are that 10% of profit automatically re-enters the pool, and automatically transacts back to your wallet 90% of the profit. The remaining pool keeps running for profit, until you transaction the "Action" function in Remix.
